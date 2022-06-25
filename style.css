@@ -1,0 +1,18 @@
+h1 {
+
+    color:darkgreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:36px;
+}
+p {
+
+    color:darkgreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+}
+
+#smiley {
+    width:50%;
+    height:auto;
+}
+
